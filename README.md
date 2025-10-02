@@ -4,7 +4,7 @@
 
 Esta aplicación en **React** fue desarrollada para llevar un control de las tareas pendinentes durante el proceso de desarrollo de los diferentes proyectos.
 
-**URL:** https://rips-assembler.netlify.app/
+**URL:** https://todo-softvergara.netlify.app/
 
 ---
 
